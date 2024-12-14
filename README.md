@@ -1,1 +1,1 @@
-# AI-Assistant-for-Mental-Health-Model-
+# AI-Assistant-for-Mental-Health-Model
