@@ -1,0 +1,1 @@
+This repository contains the code, for my MSc thesis: **"Building an AI Assistant for Mental Health Support Using Large Language Models: Fine-Tuning, Cloud Deployment Strategies, and Performance Benchmarks."**
